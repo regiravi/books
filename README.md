@@ -19,10 +19,10 @@ CONTENTS A New Way of Operating
 
 _"Creativity is not a talent. It is a way of operating.” —John Cleese_
 
-How do I get my stuff out there?
-How do I get noticed?
-How do I find an audience?
-How did you do it?
+- How do I get my stuff out there?
+- How do I get noticed?
+- How do I find an audience?
+- How did you do it?
 
 In order to be found, you have to be findable.
 The advice, _“Be so good they can’t ignore you.”_
